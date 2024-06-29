@@ -1,0 +1,15 @@
+#services {
+    margin-top: 120px;
+}
+
+h1 {
+    background: -webkit-linear-gradient(#FFCF88, #FFFFFF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+}
+
+#about-wrapper {
+    width: 80vw;
+    margin: 0 auto;
+}

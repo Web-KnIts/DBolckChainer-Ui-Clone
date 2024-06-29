@@ -1,0 +1,22 @@
+<svg width="90" height="90" viewBox="0 0 90 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_71_388" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="12" width="90" height="66">
+<path d="M11.25 33.75C15.3921 33.75 18.75 30.3921 18.75 26.25C18.75 22.1079 15.3921 18.75 11.25 18.75C7.10786 18.75 3.75 22.1079 3.75 26.25C3.75 30.3921 7.10786 33.75 11.25 33.75Z" stroke="white" stroke-width="6" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M78.75 33.75C82.8921 33.75 86.25 30.3921 86.25 26.25C86.25 22.1079 82.8921 18.75 78.75 18.75C74.6079 18.75 71.25 22.1079 71.25 26.25C71.25 30.3921 74.6079 33.75 78.75 33.75Z" stroke="white" stroke-width="6" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M71.25 26.25H56.25" stroke="white" stroke-width="6" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33.75 26.25H18.75" stroke="white" stroke-width="6" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28.125 61.875V69.375C28.125 71.6625 26.7375 73.6499 24.7875 74.4749C24.075 74.8124 23.325 75 22.5 75H15C11.8875 75 9.375 72.4875 9.375 69.375V61.875C9.375 58.7625 11.8875 56.25 15 56.25H22.5C25.6125 56.25 28.125 58.7625 28.125 61.875Z" stroke="white" stroke-width="6" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M80.625 61.875V69.375C80.625 72.4875 78.1125 75 75 75H67.5C66.675 75 65.925 74.8124 65.2125 74.4749C63.2625 73.6499 61.875 71.6625 61.875 69.375V61.875C61.875 58.7625 64.3875 56.25 67.5 56.25H75C78.1125 56.25 80.625 58.7625 80.625 61.875Z" stroke="white" stroke-width="6" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M56.25 20.625V31.875C56.25 34.95 53.7 37.5 50.625 37.5H39.375C36.3 37.5 33.75 34.95 33.75 31.875V20.625C33.75 17.55 36.3 15 39.375 15H50.625C53.7 15 56.25 17.55 56.25 20.625Z" stroke="white" stroke-width="6" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M56.25 28.9874C65.1375 33.4874 71.25 43.1625 71.25 54.375C71.25 55.0125 71.2125 55.6125 71.1375 56.25" stroke="white" stroke-width="6" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18.8625 56.25C18.7875 55.6125 18.75 55.0125 18.75 54.375C18.75 43.1625 24.8625 33.4874 33.75 28.9874" stroke="white" stroke-width="6" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</mask>
+<g mask="url(#mask0_71_388)">
+<rect width="90" height="90" fill="url(#paint0_linear_71_388)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_71_388" x1="19.2478" y1="-40.8553" x2="81.1825" y2="-6.18534" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFCF88"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+</defs>
+</svg>

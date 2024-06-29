@@ -1,0 +1,19 @@
+#hero {
+    width: 100%;
+}
+
+.hero_wrapper {
+    width: 80vw;
+}
+
+h1 {
+    background: -webkit-linear-gradient(#FFCF88, #FFFFFF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+}
+
+.text-white {
+    --bs-text-opacity: 1;
+    color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
+}
